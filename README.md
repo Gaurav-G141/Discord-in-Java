@@ -47,7 +47,7 @@ would ensure that the scraper ignores said channels)
 
 -- DATA STORAGE --
 
-Due to the privacy and respect of the servers I am in, I unfortunately cannot provide an example of what the Data is looked like. Here is, however, a typed up representation
+Due to the privacy and respect of the servers I am in, I unfortunately cannot provide an example of what the saved Message Data looks like. Here is, however, a typed up representation
 - Server name (Directory)
   - Channel name (Directory)
     - A collection of .ser files. Each one contains at most 10,000 messages, which each message being roughly 100 bytes of data
