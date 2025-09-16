@@ -65,6 +65,8 @@ The following program requires your discord token. This token can be used to acc
 
 **IF YOU DO MODIFY THE CODE FOR DIFFERENT PURPOSES, MAKE SURE YOU USE GET REQUESTS ONLY**
 
+**DISCORD DOES NOT OFFICIALLY SUPPORT SCRAPING! THIS IS FOR EDUCATIONAL PURPOSES ONLY**
+
 -- Created by --
 
 Gaurav Gupta
